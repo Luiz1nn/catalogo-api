@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/PbwDI2zRijT9hIwf8q98lG/txk+yZANTFggknxY2zJnNZuYHrbTmQeN5AxJxaMU+fSxcuIx+XmtZyb/HYfjQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desenvolvimento\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NSYS-CDS-0101\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\NSYS-CDS-0101\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\NSYS-CDS-0101\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

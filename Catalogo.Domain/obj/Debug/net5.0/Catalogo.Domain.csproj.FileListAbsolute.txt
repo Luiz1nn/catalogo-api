@@ -1,0 +1,12 @@
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.deps.json
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.dll
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\bin\Debug\net5.0\ref\Catalogo.Domain.dll
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.pdb
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfo.cs
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.dll
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\ref\Catalogo.Domain.dll
+D:\Desenvolvimento\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.pdb
